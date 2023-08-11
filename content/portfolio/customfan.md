@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "毛頭頭內風扇 委託"
 draft = false
-image = "img/portfolio/939e3a54f8de25b100307ec8821e1d6dcc6ddd71.jpg"
+image = "img/portfolio/870b8fd4cc4e0c3e8a491d4646c6b6999c7cc943.jpg"
 showonlyimage = false
 weight = 0
 +++
@@ -16,7 +16,7 @@ weight = 0
 
 <!--more-->
 
-![](/img/portfolio/939e3a54f8de25b100307ec8821e1d6dcc6ddd71.jpg)
+![](/img/portfolio/870b8fd4cc4e0c3e8a491d4646c6b6999c7cc943.jpg)
 
 ---
 
