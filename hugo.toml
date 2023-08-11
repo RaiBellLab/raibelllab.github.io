@@ -11,10 +11,10 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
-  description = "本賣場專注於提升毛毛在外奔波的生活品質！希望透過小東西的輔助，讓毛毛散波更多快樂給全世界！"
+  description = "本賣場專注於提升毛毛在外奔波的生活品質！希望透過小東西的輔助，讓毛毛散播更多快樂給全世界！"
   copyright = "&copy; 2023 雷系鈴鐺研究所"
   sidebarAbout = [
-    "本賣場專注於提升毛毛在外奔波的生活品質！希望透過小東西的輔助，讓毛毛散波更多快樂給全世界！",
+    "本賣場專注於提升毛毛在外奔波的生活品質！希望透過小東西的輔助，讓毛毛散播更多快樂給全世界！",
     "🔔 米卡 @mika_bear ➡️ 設計、頭內風扇委託",
     "⚡ 雷雷 @RaiChanCat ➡️ 製作、售後服務",
   ]
