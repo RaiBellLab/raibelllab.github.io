@@ -11,7 +11,12 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
+
+  # OpenGraph
   description = "本賣場專注於提升毛毛在外奔波的生活品質！希望透過小東西的輔助，讓毛毛散播更多快樂給全世界！"
+  images = ['/img/favicon.png']
+  title = "雷系鈴鐺研究所"
+  
   copyright = "&copy; 2023 雷系鈴鐺研究所"
   sidebarAbout = [
     "本賣場專注於提升毛毛在外奔波的生活品質！希望透過小東西的輔助，讓毛毛散播更多快樂給全世界！",
