@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on 雷系鈴鐺研究所</title>
+    <link>http://localhost:1313/products/</link>
+    <description>Recent content in Products on 雷系鈴鐺研究所</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2024 雷系鈴鐺研究所</copyright>
+    <lastBuildDate>Tue, 12 Mar 2024 21:44:19 +0800</lastBuildDate><atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>毛毛用可愛奶嘴配件</title>
+      <link>http://localhost:1313/products/pacifier/</link>
+      <pubDate>Tue, 12 Mar 2024 21:44:19 +0800</pubDate>
+      
+      <guid>http://localhost:1313/products/pacifier/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/products/pacifier/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>獸聚用名片盒</title>
+      <link>http://localhost:1313/products/namecard-box/</link>
+      <pubDate>Tue, 12 Mar 2024 14:31:36 +0800</pubDate>
+      
+      <guid>http://localhost:1313/products/namecard-box/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/products/namecard-box/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>毛毛用細嘴導風罩 &#43; 共田 W920B 手持風扇 組合</title>
+      <link>http://localhost:1313/products/fanduct/</link>
+      <pubDate>Mon, 11 Mar 2024 23:18:25 +0800</pubDate>
+      
+      <guid>http://localhost:1313/products/fanduct/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/products/fanduct/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
