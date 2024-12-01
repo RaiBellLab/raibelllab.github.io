@@ -1,0 +1,18 @@
+baseURL = 'https://raibelllab.github.io/'
+languageCode = 'zh-tw'
+title = '雷系鈴鐺研究所 RaiBellLab'
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[params.author]
+name = "雷系鈴鐺研究所 RaiBellLab"
+headline = "本所專注於研究提升毛毛在外奔波的生活品質！希望透過小東西的輔助，讓毛毛散播更多快樂給世界的大家！"
+image = "author.jpg"
+links = [
+   { facebook = "https://www.facebook.com/RaiBellLab/" },
+   { x = "https://x.com/raibelllab" },
+   { telegram = { href = "https://t.me/raibelllab" , text = "Telegram - 洽詢、售後服務、合作討論" }},
+   { link = { href = "https://mall.iopenmall.tw/041780/", text = "iOpenMall 賣場" } },
+   { link = { href = "https://forms.gle/34auVAmGpnAxis4G6", text = "客製化頭內風扇委託表單" } },
+]
