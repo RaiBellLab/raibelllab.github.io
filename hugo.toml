@@ -12,7 +12,8 @@ image = "author.jpg"
 links = [
    { facebook = "https://www.facebook.com/RaiBellLab/" },
    { x = "https://x.com/raibelllab" },
-   { telegram = { href = "https://t.me/raibelllab" , text = "Telegram - 洽詢、售後服務、合作討論" }},
+   { telegram = { href = "https://t.me/raibelllab", text = "Telegram - 洽詢、售後服務、合作討論" } },
+   { link = { href = "https://raibelllab.notion.site/1b25ff4eb89c8068be54db2b7e26d137", text = "知識寶庫 - 支援、說明書" } },
    { link = { href = "https://mall.iopenmall.tw/041780/", text = "iOpenMall 賣場" } },
-   { link = { href = "https://forms.gle/34auVAmGpnAxis4G6", text = "客製化頭內風扇委託表單" } },
+   { link = { href = "https://raibelllab.notion.site/1b25ff4eb89c801dae89d8cd0bbb68ec", text = "客製化頭內風扇委託" } },
 ]
